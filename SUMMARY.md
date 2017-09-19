@@ -55,8 +55,8 @@
   * [7.1导入选项](71dao-ru-xuan-xiang.md)
   * [7.2导出选项](72dao-chu-xuan-xiang.md)
 * 8.案例演示
-  * 8.1检测案例
-    * 运动服检测案例1
+  * [8.1检测案例](81jian-ce-an-li.md)
+    * [运动服检测案例1](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-1.md)
     * 运动服检测案例2
     * 运动服检测案例3
     * 运动服检测案例4
@@ -95,10 +95,10 @@
   * 9.1加工异常
     * 小圆不圆问题
     * 加工速度慢抖动问题
-  * 9.2检测异常
+  * [9.2检测异常](92jian-ce-yi-chang.md)
   * 9.3匹配异常
 * 10.版本升级
-  * 10.1大幅面版本升级功能
-  * 10.2算料软件版本升级
-  * 10.3大幅面新功能演示
+  * [10.1大幅面版本升级功能](101da-fu-mian-ban-ben-sheng-ji-gong-neng.md)
+  * [10.2算料软件版本升级](102suan-liao-ruan-jian-ban-ben-sheng-ji.md)
+  * [10.3大幅面新功能演示](103da-fu-mian-xin-gong-neng-yan-shi.md)
 

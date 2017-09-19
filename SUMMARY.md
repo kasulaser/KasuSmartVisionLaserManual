@@ -43,7 +43,7 @@
   * [5.1排列功能](6pai-ban-gong-neng/51pai-lie-gong-neng.md)
   * [5.2单片排版功能](6pai-ban-gong-neng/52dan-pian-pai-lie-gong-neng.md)
   * [5.3组合排版功能](6pai-ban-gong-neng/53zu-he-pai-ban-gong-neng.md)
-  * 5.4样片属性设置
+  * [5.4样片属性设置](6pai-ban-gong-neng/54yang-pian-shu-xing-she-zhi.md)
 * [6.加工模式介绍](7jia-gong-mo-shi-jie-shao.md)
   * [6.1运动配置](7jia-gong-mo-shi-jie-shao/61yun-dong-pei-zhi.md)
   * 6.2加工模式

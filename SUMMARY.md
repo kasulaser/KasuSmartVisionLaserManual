@@ -23,7 +23,7 @@
   * [3.5高级形态学](4jian-ce-mo-shi-jie-shao/35gao-ji-xing-tai-xue.md)
   * [3.6轮廓检测法](4jian-ce-mo-shi-jie-shao/36lun-kuo-jian-ce-fa.md)
   * [3.7边缘检测法](4jian-ce-mo-shi-jie-shao/37bian-yuan-jian-ce-fa.md)
-  * 3.8花稿检测法
+  * [3.8花稿检测法](4jian-ce-mo-shi-jie-shao/38hua-gao-jian-ce-fa.md)
   * 3.9钻石带检测
   * 3.10缎带检测法
   * 3.11区域检测法

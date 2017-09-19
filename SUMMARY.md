@@ -28,7 +28,7 @@
   * [3.10缎带检测法](4jian-ce-mo-shi-jie-shao/310duan-dai-jian-ce-fa.md)
   * [3.11区域检测法](4jian-ce-mo-shi-jie-shao/311qu-yu-jian-ce-fa.md)
   * [3.12轮廓标示](4jian-ce-mo-shi-jie-shao/312lun-kuo-biao-shi.md)
-  * 3.13条带筛选
+  * [3.13条带筛选](4jian-ce-mo-shi-jie-shao/313tiao-dai-shai-xuan.md)
 * [4.图形操作](5tu-xing-cao-zuo.md)
   * [4.1选择操作工具](5tu-xing-cao-zuo/41xuan-ze-cao-zuo-gong-ju.md)
   * [4.2创建工具](5tu-xing-cao-zuo/42chuang-jian-gong-ju.md)

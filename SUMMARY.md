@@ -48,7 +48,7 @@
   * [6.1运动配置](7jia-gong-mo-shi-jie-shao/61yun-dong-pei-zhi.md)
   * [6.2加工模式](7jia-gong-mo-shi-jie-shao/62jia-gong-mo-shi.md)
   * [6.3图层选项](7jia-gong-mo-shi-jie-shao/63tu-ceng-xuan-xiang.md)
-  * 6.4加工选项
+  * [6.4加工选项](7jia-gong-mo-shi-jie-shao/64jia-gong-xuan-xiang.md)
   * 6.5控制器操作
   * 6.6使用许可
 * 7.系统设置

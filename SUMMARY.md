@@ -53,7 +53,7 @@
   * [6.6使用许可](7jia-gong-mo-shi-jie-shao/66shi-yong-xu-ke.md)
 * 7.系统设置
   * [7.1导入选项](71dao-ru-xuan-xiang.md)
-  * 7.2导出选项
+  * [7.2导出选项](72dao-chu-xuan-xiang.md)
 * 8.案例演示
   * 8.1检测案例
     * 运动服检测案例1

@@ -19,7 +19,7 @@
   * [3.1检测参数](4jian-ce-mo-shi-jie-shao/31jian-ce-can-shu.md)
   * [3.2轮廓尺寸筛选](4jian-ce-mo-shi-jie-shao/32lun-kuo-chi-cun-shai-xuan.md)
   * [3.3轮廓级别筛选](4jian-ce-mo-shi-jie-shao/33lun-kuo-ji-bie-shai-xuan.md)
-  * 3.4形态学介绍
+  * [3.4形态学介绍](4jian-ce-mo-shi-jie-shao/34xing-tai-xue-jie-shao.md)
   * 3.5高级形态学
   * 3.6轮廓检测法
   * 3.7边缘检测法

@@ -23,6 +23,8 @@
 
   ![](/assets/import24.png)
 
+* ![](/assets/import26.png)：断线工具。
+
 * ![](/assets/import22.png)：网格工具（注：这是在样板查看里面的普切工具，可以普迫切矩形方框；具体使用方法见后面）
 
 

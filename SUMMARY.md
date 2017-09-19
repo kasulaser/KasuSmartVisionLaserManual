@@ -50,7 +50,7 @@
   * [6.3图层选项](7jia-gong-mo-shi-jie-shao/63tu-ceng-xuan-xiang.md)
   * [6.4加工选项](7jia-gong-mo-shi-jie-shao/64jia-gong-xuan-xiang.md)
   * [6.5控制器操作](7jia-gong-mo-shi-jie-shao/65kong-zhi-qi-cao-zuo.md)
-  * 6.6使用许可
+  * [6.6使用许可](7jia-gong-mo-shi-jie-shao/66shi-yong-xu-ke.md)
 * 7.系统设置
   * 7.1导入选项
   * 7.2导出选项

@@ -32,8 +32,6 @@
 * [4.图形操作](5tu-xing-cao-zuo.md)
   * [4.1选择操作工具](5tu-xing-cao-zuo/41xuan-ze-cao-zuo-gong-ju.md)
   * [4.2创建工具](5tu-xing-cao-zuo/42chuang-jian-gong-ju.md)
-  * [4.3眼位工具](5tu-xing-cao-zuo/43yan-wei-gong-ju.md)
-  * [4.4压剪工具](5tu-xing-cao-zuo/44ya-jian-gong-ju.md)
   * [4.5轮廓编辑工具](5tu-xing-cao-zuo/45lun-kuo-bian-ji-gong-ju.md)
   * [4.6模板编辑工具](5tu-xing-cao-zuo/46mo-ban-bian-ji-gong-ju.md)
   * [4.7网格工具](5tu-xing-cao-zuo/47wang-ge-gong-ju.md)

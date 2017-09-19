@@ -8,7 +8,7 @@
   * [1.3厚度标定设置](1xiang-ji-cao-zuo-yi-ji-biao-ding/13hou-du-biao-ding-she-zhi.md)
   * [1.4网格参数设置](1xiang-ji-cao-zuo-yi-ji-biao-ding/14wang-ge-can-shu-she-zhi.md)
   * [1.5图像预处理](1xiang-ji-cao-zuo-yi-ji-biao-ding/15tu-xiang-yu-chu-li.md)
-  * [1.6高即图像预处理](1xiang-ji-cao-zuo-yi-ji-biao-ding/16gao-ji-tu-xiang-yu-chu-li.md)
+  * [1.6高级图像预处理](1xiang-ji-cao-zuo-yi-ji-biao-ding/16gao-ji-tu-xiang-yu-chu-li.md)
   * [1.7取色器](1xiang-ji-cao-zuo-yi-ji-biao-ding/17qu-se-qi.md)
   * [1.8货号设置介绍](1xiang-ji-cao-zuo-yi-ji-biao-ding/18huo-hao-she-zhi-jie-shao.md)
 * [2.匹配模式介绍](2huo-hao-she-zhi-jie-shao.md)

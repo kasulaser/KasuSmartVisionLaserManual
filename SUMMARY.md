@@ -24,7 +24,7 @@
   * [3.6轮廓检测法](4jian-ce-mo-shi-jie-shao/36lun-kuo-jian-ce-fa.md)
   * [3.7边缘检测法](4jian-ce-mo-shi-jie-shao/37bian-yuan-jian-ce-fa.md)
   * [3.8花稿检测法](4jian-ce-mo-shi-jie-shao/38hua-gao-jian-ce-fa.md)
-  * 3.9钻石带检测
+  * [3.9钻石带检测](4jian-ce-mo-shi-jie-shao/39zuan-shi-dai-jian-ce.md)
   * 3.10缎带检测法
   * 3.11区域检测法
   * [3.12轮廓标示](4jian-ce-mo-shi-jie-shao/312lun-kuo-biao-shi.md)

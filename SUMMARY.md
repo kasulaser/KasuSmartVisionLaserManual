@@ -46,7 +46,7 @@
   * [5.4样片属性设置](6pai-ban-gong-neng/54yang-pian-shu-xing-she-zhi.md)
 * [6.加工模式介绍](7jia-gong-mo-shi-jie-shao.md)
   * [6.1运动配置](7jia-gong-mo-shi-jie-shao/61yun-dong-pei-zhi.md)
-  * 6.2加工模式
+  * [6.2加工模式](7jia-gong-mo-shi-jie-shao/62jia-gong-mo-shi.md)
   * 6.3图层选项
   * 6.4加工选项
   * 6.5控制器操作

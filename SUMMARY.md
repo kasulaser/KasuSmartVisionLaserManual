@@ -12,7 +12,7 @@
   * 1.7取色器
   * 1.8货号设置介绍
 * [2.匹配模式介绍](2huo-hao-she-zhi-jie-shao.md)
-  * 2.1生成模板
+  * [2.1生成模板](2huo-hao-she-zhi-jie-shao/21sheng-cheng-mo-ban.md)
   * 2.2模板匹配
   * 2.3模板编辑
 * [3.检测模式介绍](4jian-ce-mo-shi-jie-shao.md)

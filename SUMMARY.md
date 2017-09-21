@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [介绍](README.md)
 * [1.相机操作以及标定](1xiang-ji-cao-zuo-yi-ji-biao-ding.md)
   * [1.1相机参数设置](1xiang-ji-cao-zuo-yi-ji-biao-ding/11xiang-ji-can-shu-she-zhi.md)
   * [1.2标定参数设置](1xiang-ji-cao-zuo-yi-ji-biao-ding/12biao-ding-can-shu-she-zhi.md)

@@ -1,4 +1,4 @@
-![](/assets/BeyondAreaProcess.png)
+![](/assets/BeyondAreaProcess1.png)
 
 1.超幅面加工概念：如上图，先切网格区域内的图形。切完后，把超出的部分往下移动到网格内，送料，再切割。切完再把超出的部
 

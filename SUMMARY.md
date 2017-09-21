@@ -94,7 +94,7 @@
   * [9.2检测异常](92jian-ce-yi-chang.md)
   * 9.3匹配异常
 * 10.版本升级
-  * [10.1大幅面版本升级功能](101da-fu-mian-ban-ben-sheng-ji-gong-neng.md)
-  * [10.2算料软件版本升级](102suan-liao-ruan-jian-ban-ben-sheng-ji.md)
+  * [10.1大幅面版本升级说明](101da-fu-mian-ban-ben-sheng-ji-gong-neng.md)
+  * [10.2算料软件版本升级说明](102suan-liao-ruan-jian-ban-ben-sheng-ji.md)
   * [10.3大幅面新功能演示](103da-fu-mian-xin-gong-neng-yan-shi.md)
 

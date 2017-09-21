@@ -74,7 +74,7 @@
     * 多点模板匹配案例
     * 环形模板匹配
     * 仿真玩具变形模板匹配
-  * 8.3加工案例
+  * [8.3加工案例](83jia-gong-an-li.md)
     * [双头互移加工](shuang-tou-hu-yi-jia-gong.md)
     * [双头异步加工](shuang-tou-yi-bu-jia-gong.md)
     * [超幅面加工](chao-fu-mian-jia-gong.md)

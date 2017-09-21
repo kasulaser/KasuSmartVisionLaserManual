@@ -52,7 +52,7 @@
 * 7.系统设置
   * [7.1导入选项](71dao-ru-xuan-xiang.md)
   * [7.2导出选项](72dao-chu-xuan-xiang.md)
-* 8.案例演示
+* [8.案例演示](8an-li-yan-shi.md)
   * [8.1检测案例](81jian-ce-an-li.md)
     * [运动服检测案例1](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-1.md)
     * 运动服检测案例2
@@ -74,13 +74,12 @@
     * 多点模板匹配案例
     * 环形模板匹配
     * 仿真玩具变形模板匹配
-  * 8.3加工案例
-    * 特殊行业案例
-    * 双头互移加工
-    * 双头异步加工
-    * 超幅面加工
-    * 伴随加工
-    * 定位点加工
+  * [8.3加工案例](83jia-gong-an-li.md)
+    * [双头互移加工](shuang-tou-hu-yi-jia-gong.md)
+    * [双头异步加工](shuang-tou-yi-bu-jia-gong.md)
+    * [超幅面加工](chao-fu-mian-jia-gong.md)
+    * [伴随加工](ban-sui-jia-gong.md)
+    * [定位点加工](ding-wei-dian-jia-gong.md)
   * 8.4特殊行业案例
     * 花稿检测案例1
     * 花稿检测案例2

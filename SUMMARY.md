@@ -49,10 +49,10 @@
   * [6.4加工选项](7jia-gong-mo-shi-jie-shao/64jia-gong-xuan-xiang.md)
   * [6.5控制器操作](7jia-gong-mo-shi-jie-shao/65kong-zhi-qi-cao-zuo.md)
   * [6.6使用许可](7jia-gong-mo-shi-jie-shao/66shi-yong-xu-ke.md)
-* 7.系统设置
+* [7.系统设置](7xi-tong-she-zhi.md)
   * [7.1导入选项](71dao-ru-xuan-xiang.md)
   * [7.2导出选项](72dao-chu-xuan-xiang.md)
-* 8.案例演示
+* [8.案例演示](8an-li-yan-shi.md)
   * [8.1检测案例](81jian-ce-an-li.md)
     * [运动服检测案例1](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-1.md)
     * 运动服检测案例2
@@ -67,35 +67,35 @@
     * 蕾丝花边检测2
     * 蕾丝花边检测3
     * 蕾丝花边检测4
-  * 8.2匹配案例
+  * [8.2匹配案例](82pi-pei-an-li.md)
     * 绣片匹配案例1
     * 绣片匹配案例2
     * 链接模板匹配案例
     * 多点模板匹配案例
     * 环形模板匹配
     * 仿真玩具变形模板匹配
-  * 8.3加工案例
+  * [8.3加工案例](83jia-gong-an-li.md)
     * 特殊行业案例
     * 双头互移加工
     * 双头异步加工
     * 超幅面加工
     * 伴随加工
     * 定位点加工
-  * 8.4特殊行业案例
+  * [8.4特殊行业案例](84te-shu-xing-ye-an-li.md)
     * 花稿检测案例1
     * 花稿检测案例2
     * 条纹布检测1
     * 条纹布检测2
     * 条纹布检测3
-  * 8.5标定案例
+  * [8.5标定案例](85biao-ding-an-li.md)
     * 标定
-* 9.异常处理
-  * 9.1加工异常
+* [9.异常处理](9yi-chang-chu-li.md)
+  * [9.1加工异常](91jia-gong-yi-chang.md)
     * 小圆不圆问题
     * 加工速度慢抖动问题
   * [9.2检测异常](92jian-ce-yi-chang.md)
-  * 9.3匹配异常
-* 10.版本升级
+  * [9.3匹配异常](93pi-pei-yi-chang.md)
+* [10.版本升级](10ban-ben-sheng-ji.md)
   * [10.1大幅面版本升级功能](101da-fu-mian-ban-ben-sheng-ji-gong-neng.md)
   * [10.2算料软件版本升级](102suan-liao-ruan-jian-ban-ben-sheng-ji.md)
   * [10.3大幅面新功能演示](103da-fu-mian-xin-gong-neng-yan-shi.md)

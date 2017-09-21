@@ -4,7 +4,7 @@
 
 2.为了确保分头的正确，需要量一下分头间距，即1-2头的距离。
 
-![](/assets/DoubleHeadMoveProcess.png)
+![](/assets/DoubleHeadMoveProcess2.png)
 
 测量方法：复位状态下，在激光头的下方放上白纸，按点射即会出现两个小点，量一下两个点之间的直线距离即为1-2头的间距，然后
 

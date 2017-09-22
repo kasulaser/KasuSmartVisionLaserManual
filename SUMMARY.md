@@ -54,8 +54,8 @@
 * [8.案例演示](8an-li-yan-shi.md)
   * [8.1检测案例](81jian-ce-an-li.md)
     * [运动服检测案例1](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-1.md)
-    * 运动服检测案例2
-    * 运动服检测案例3
+    * [运动服检测案例2](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-2.md)
+    * [运动服检测案例3](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-3.md)
     * 运动服检测案例4
     * 样片检测案例1
     * 样片检测案例2

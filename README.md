@@ -1,3 +1,6 @@
-# My Awesome Book
+# 本书为咔咻大幅面软件产品操作手册
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+咔咻大幅面软件操作手册
+

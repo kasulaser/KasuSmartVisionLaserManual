@@ -68,7 +68,7 @@
     * 蕾丝花边检测4
   * [8.2匹配案例](82pi-pei-an-li.md)
     * [绣片匹配案例1](82pi-pei-an-li/xiu-pian-pi-pei-an-li-1.md)
-    * 绣片匹配案例2
+    * [绣片匹配案例2](82pi-pei-an-li/xiu-pian-pi-pei-an-li-2.md)
     * 链接模板匹配案例
     * 多点模板匹配案例
     * 环形模板匹配

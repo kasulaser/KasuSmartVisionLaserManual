@@ -84,7 +84,7 @@
     * 花稿检测案例2
     * [条纹布检测1](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-1.md)
     * 条纹布检测2
-    * 条纹布检测3
+    * [条纹布检测3](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-3.md)
   * [8.5标定案例](85biao-ding-an-li.md)
     * [标定](85biao-ding-an-li/biao-ding.md)
 * 9.异常处理

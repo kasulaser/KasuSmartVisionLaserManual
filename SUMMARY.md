@@ -54,9 +54,9 @@
 * [8.案例演示](8an-li-yan-shi.md)
   * [8.1检测案例](81jian-ce-an-li.md)
     * [运动服检测案例1](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-1.md)
-    * 运动服检测案例2
-    * 运动服检测案例3
-    * 运动服检测案例4
+    * [运动服检测案例2](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-2.md)
+    * [运动服检测案例3](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-3.md)
+    * [运动服检测案例4](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-4.md)
     * 样片检测案例1
     * [样片检测案例2](81jian-ce-an-li/yang-pian-jian-ce-an-li-2.md)
     * 样片检测案例3
@@ -85,8 +85,8 @@
     * 条纹布检测1
     * 条纹布检测2
     * 条纹布检测3
-  * 8.5标定案例
-    * 标定
+  * [8.5标定案例](85biao-ding-an-li.md)
+    * [标定](85biao-ding-an-li/biao-ding.md)
 * 9.异常处理
   * 9.1加工异常
     * 小圆不圆问题

@@ -57,10 +57,10 @@
     * [运动服检测案例2](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-2.md)
     * [运动服检测案例3](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-3.md)
     * 运动服检测案例4
-    * 样片检测案例1
-    * 样片检测案例2
+    * [样片检测案例1](81jian-ce-an-li/yang-pian-jian-ce-an-li-1.md)
+    * [样片检测案例2](81jian-ce-an-li/yang-pian-jian-ce-an-li-2.md)
     * 样片检测案例3
-    * 窗帘布检测1
+    * [窗帘布检测1](81jian-ce-an-li/chuang-lian-bu-jian-ce-1.md)
     * 窗帘布检测2
     * 蕾丝花边检测1
     * 蕾丝花边检测2

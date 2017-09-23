@@ -62,7 +62,7 @@
     * 样片检测案例3
     * 窗帘布检测1
     * 窗帘布检测2
-    * 蕾丝花边检测1
+    * [蕾丝花边检测1](81jian-ce-an-li/lei-si-hua-bian-jian-ce-1.md)
     * 蕾丝花边检测2
     * 蕾丝花边检测3
     * 蕾丝花边检测4
@@ -79,10 +79,10 @@
     * [超幅面加工](chao-fu-mian-jia-gong.md)
     * [伴随加工](ban-sui-jia-gong.md)
     * [定位点加工](ding-wei-dian-jia-gong.md)
-  * 8.4特殊行业案例
-    * 花稿检测案例1
+  * [8.4特殊行业案例](84te-shu-xing-ye-an-li.md)
+    * [花稿检测案例1](84te-shu-xing-ye-an-li/hua-gao-jian-ce-an-li-1.md)
     * 花稿检测案例2
-    * 条纹布检测1
+    * [条纹布检测1](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-1.md)
     * 条纹布检测2
     * 条纹布检测3
   * [8.5标定案例](85biao-ding-an-li.md)

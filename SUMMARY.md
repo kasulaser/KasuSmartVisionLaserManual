@@ -87,9 +87,9 @@
     * 条纹布检测3
   * 8.5标定案例
     * 标定
-* 9.异常处理
-  * 9.1加工异常
-    * 小圆不圆问题
+* [9.异常处理](9yi-chang-chu-li.md)
+  * [9.1加工异常](91jia-gong-yi-chang.md)
+    * [小圆不圆问题](91jia-gong-yi-chang/xiao-yuan-bu-yuan-wen-ti.md)
     * 加工速度慢抖动问题
   * [9.2检测异常](92jian-ce-yi-chang.md)
   * 9.3匹配异常

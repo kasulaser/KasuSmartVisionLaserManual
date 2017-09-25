@@ -63,7 +63,7 @@
     * 窗帘布检测1
     * 窗帘布检测2
     * [蕾丝花边检测1](81jian-ce-an-li/lei-si-hua-bian-jian-ce-1.md)
-    * 蕾丝花边检测2
+    * [蕾丝花边检测2](81jian-ce-an-li/lei-si-hua-bian-jian-ce-2.md)
     * 蕾丝花边检测3
     * 蕾丝花边检测4
   * [8.2匹配案例](82pi-pei-an-li.md)

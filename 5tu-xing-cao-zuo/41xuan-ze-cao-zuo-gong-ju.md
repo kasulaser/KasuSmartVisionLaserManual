@@ -14,3 +14,5 @@
 
 ![](/assets/模板1.png)        ![](/assets/模板2.png)
 
+![](/assets/4.1 选择工具.gif)
+

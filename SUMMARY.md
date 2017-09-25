@@ -67,8 +67,8 @@
     * 蕾丝花边检测3
     * 蕾丝花边检测4
   * [8.2匹配案例](82pi-pei-an-li.md)
-    * 绣片匹配案例1
-    * 绣片匹配案例2
+    * [绣片匹配案例1](82pi-pei-an-li/xiu-pian-pi-pei-an-li-1.md)
+    * [绣片匹配案例2](82pi-pei-an-li/xiu-pian-pi-pei-an-li-2.md)
     * 链接模板匹配案例
     * 多点模板匹配案例
     * 环形模板匹配
@@ -83,8 +83,9 @@
     * [花稿检测案例1](84te-shu-xing-ye-an-li/hua-gao-jian-ce-an-li-1.md)
     * 花稿检测案例2
     * [条纹布检测1](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-1.md)
-    * 条纹布检测2
+    * [条纹布检测2](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-2.md)
     * [条纹布检测3](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-3.md)
+    * [条纹布主条位检测](84te-shu-xing-ye-an-li/tiao-wen-bu-zhu-tiao-wei-jian-ce.md)
   * [8.5标定案例](85biao-ding-an-li.md)
     * [标定](85biao-ding-an-li/biao-ding.md)
 * 9.异常处理

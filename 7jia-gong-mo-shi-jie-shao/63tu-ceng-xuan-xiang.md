@@ -1,4 +1,4 @@
-## 图层选项
+## 图层选项 {#图层选项}
 
 ![](/assets/LayerOptions.png)
 

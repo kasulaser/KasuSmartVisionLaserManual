@@ -54,7 +54,7 @@
 
 ![](/assets/压剪工具 单个模式和连续模式.gif)
 
-![](/assets/import26.png)：断线工具。
+![](/assets/import26.png)：断线工具。如下图所示，可以针对图形或边缘进行切断功能。
 
 ![](/assets/4.2 断线工具.gif)
 

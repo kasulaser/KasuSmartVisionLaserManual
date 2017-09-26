@@ -81,7 +81,7 @@
     * [定位点加工](ding-wei-dian-jia-gong.md)
   * [8.4特殊行业案例](84te-shu-xing-ye-an-li.md)
     * [花稿检测案例1](84te-shu-xing-ye-an-li/hua-gao-jian-ce-an-li-1.md)
-    * 花稿检测案例2
+    * [花稿检测案例2](84te-shu-xing-ye-an-li/hua-gao-jian-ce-an-li-2.md)
     * [条纹布检测1](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-1.md)
     * [条纹布检测2](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-2.md)
     * [条纹布检测3](84te-shu-xing-ye-an-li/tiao-wen-bu-jian-ce-3.md)
@@ -89,7 +89,7 @@
   * [8.5标定案例](85biao-ding-an-li.md)
     * [标定](85biao-ding-an-li/biao-ding.md)
 * 9.异常处理
-  * 9.1加工异常
+  * [9.1加工异常](91jia-gong-yi-chang.md)
     * 小圆不圆问题
     * 加工速度慢抖动问题
   * [9.2检测异常](92jian-ce-yi-chang.md)

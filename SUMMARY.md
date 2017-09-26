@@ -57,7 +57,7 @@
     * [运动服检测案例2](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-2.md)
     * [运动服检测案例3](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-3.md)
     * [运动服检测案例4](81jian-ce-an-li/yun-dong-fu-jian-ce-an-li-4.md)
-    * 样片检测案例1
+    * [样片检测案例1](81jian-ce-an-li/yang-pian-jian-ce-an-li-1.md)
     * [样片检测案例2](81jian-ce-an-li/yang-pian-jian-ce-an-li-2.md)
     * 样片检测案例3
     * 窗帘布检测1
@@ -69,10 +69,10 @@
   * [8.2匹配案例](82pi-pei-an-li.md)
     * [绣片匹配案例1](82pi-pei-an-li/xiu-pian-pi-pei-an-li-1.md)
     * [绣片匹配案例2](82pi-pei-an-li/xiu-pian-pi-pei-an-li-2.md)
-    * 链接模板匹配案例
-    * 多点模板匹配案例
-    * 环形模板匹配
-    * 仿真玩具变形模板匹配
+    * [链接模板匹配案例](82pi-pei-an-li/lian-jie-mo-ban-pi-pei-an-li.md)
+    * [多点模板匹配案例](82pi-pei-an-li/duo-dian-mo-ban-pi-pei-an-li.md)
+    * [环形模板匹配](82pi-pei-an-li/huan-xing-mo-ban-pi-pei.md)
+    * [仿真玩具变形模板匹配](82pi-pei-an-li/fang-zhen-wan-ju-bian-xing-mo-ban-pi-pei.md)
   * [8.3加工案例](83jia-gong-an-li.md)
     * [双头互移加工](shuang-tou-hu-yi-jia-gong.md)
     * [双头异步加工](shuang-tou-yi-bu-jia-gong.md)
@@ -88,13 +88,13 @@
     * [条纹布主条位检测](84te-shu-xing-ye-an-li/tiao-wen-bu-zhu-tiao-wei-jian-ce.md)
   * [8.5标定案例](85biao-ding-an-li.md)
     * [标定](85biao-ding-an-li/biao-ding.md)
-* 9.异常处理
+* [9.异常处理](9yi-chang-chu-li.md)
   * [9.1加工异常](91jia-gong-yi-chang.md)
     * 小圆不圆问题
     * 加工速度慢抖动问题
   * [9.2检测异常](92jian-ce-yi-chang.md)
   * 9.3匹配异常
-* 10.版本升级
+* [10.版本升级](10ban-ben-sheng-ji.md)
   * [10.1大幅面版本升级说明](101da-fu-mian-ban-ben-sheng-ji-gong-neng.md)
   * [10.2算料软件版本升级说明](102suan-liao-ruan-jian-ban-ben-sheng-ji.md)
   * [10.3大幅面新功能演示](103da-fu-mian-xin-gong-neng-yan-shi.md)
